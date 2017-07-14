@@ -1,0 +1,13 @@
+#ItemImage {
+    width: 300px;
+    border: 1px solid;
+    margin: 0 auto;
+}
+
+.inquiry-ItemLabel {
+    font-weight: bold;
+}
+
+.inquiry-ItemValue {
+    padding-left: 24px;
+}

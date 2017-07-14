@@ -1,0 +1,4 @@
+*.log
+css/*
+js/*
+!.gitkeep
